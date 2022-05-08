@@ -1,0 +1,5 @@
+.logo {
+  height: 4em;
+  overflow: hidden;
+  pointer-events: none;
+}
